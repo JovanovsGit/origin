@@ -1,0 +1,10 @@
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\bin\Debug\Demo Project.exe.config
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\bin\Debug\Demo Project.exe
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\bin\Debug\Demo Project.pdb
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\obj\Debug\Demo Project.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\obj\Debug\Demo_Project.Form1.resources
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\obj\Debug\Demo_Project.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\obj\Debug\Demo Project.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\obj\Debug\Demo Project.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\obj\Debug\Demo Project.exe
+C:\Users\Aleksandar\Desktop\Demo Project\Demo Project\obj\Debug\Demo Project.pdb

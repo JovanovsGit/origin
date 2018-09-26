@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBallOfChaose_Preresena", "MyBallOfChaose_Preresena\MyBallOfChaose_Preresena.csproj", "{35C38534-74C5-46E0-8A8F-1246FB70249D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C38534-74C5-46E0-8A8F-1246FB70249D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C38534-74C5-46E0-8A8F-1246FB70249D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C38534-74C5-46E0-8A8F-1246FB70249D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C38534-74C5-46E0-8A8F-1246FB70249D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90AE33D-69A7-448C-9454-F9ECF5DF03D8}
+	EndGlobalSection
+EndGlobal

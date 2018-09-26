@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTickingPie", "MyTickingPie\MyTickingPie.csproj", "{18BCCA53-55E7-4B49-B0A9-F8B9F7F853DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BCCA53-55E7-4B49-B0A9-F8B9F7F853DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BCCA53-55E7-4B49-B0A9-F8B9F7F853DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BCCA53-55E7-4B49-B0A9-F8B9F7F853DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BCCA53-55E7-4B49-B0A9-F8B9F7F853DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32B33EF-708A-47F9-AAD7-BB611A81CDD2}
+	EndGlobalSection
+EndGlobal

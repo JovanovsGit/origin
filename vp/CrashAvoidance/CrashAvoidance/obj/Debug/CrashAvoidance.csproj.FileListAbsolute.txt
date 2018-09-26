@@ -1,0 +1,10 @@
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\bin\Debug\CrashAvoidance.exe.config
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\bin\Debug\CrashAvoidance.exe
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\bin\Debug\CrashAvoidance.pdb
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\obj\Debug\CrashAvoidance.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\obj\Debug\CrashAvoidance.Form1.resources
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\obj\Debug\CrashAvoidance.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\obj\Debug\CrashAvoidance.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\obj\Debug\CrashAvoidance.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\obj\Debug\CrashAvoidance.exe
+C:\Users\Aleksandar\Desktop\CrashAvoidance\CrashAvoidance\obj\Debug\CrashAvoidance.pdb

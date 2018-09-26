@@ -1,0 +1,32 @@
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.exe.config
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.exe
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.pdb
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.Form1.resources
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.Properties.Resources.resources
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csproj.GenerateResource.cache
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csproj.CoreCompileInputs.cache
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.exe
+c:\users\aleksandar\source\repos\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.pdb
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.exe.config
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.exe
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.pdb
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.Form1.resources
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.exe
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.pdb
+C:\Users\Aleksandar\Desktop\ukim.finki == Shit.Yes\Vizuelno programiranje\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.BestPlayer.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.exe.config
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.exe
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\bin\Debug\Lab-Matematicka-igra.pdb
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.BestPlayer.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.Form1.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab_Matematicka_igra.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.exe
+C:\Users\Aleksandar\Desktop\FINKI o!o\Vizuelno programiranje\Moj zadaci\Lab-Matematicka-igra\Lab-Matematicka-igra\obj\Debug\Lab-Matematicka-igra.pdb
